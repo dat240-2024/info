@@ -1,4 +1,7 @@
 # Lecture Schedule
+- Lectures Thursdays (EOJ Auditorium) and Fridays (KE A-204): 8.15 - 10
+- Lab (KE E-454): Thursdays 10:15 - 14:00
+
 
 | W   | Date  | Type    | Teacher            | Topic                                                           | Resources                                             | Travels / Remarks |
 | --- | ----- | ------- | ------------------ | --------------------------------------------------------------- | ----------------------------------------------------- | ----------------- |
