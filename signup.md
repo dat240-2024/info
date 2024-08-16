@@ -98,7 +98,7 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
    A Discord account is required to sign in to communicate with the teaching staff during lab hours.
    You can skip this step if you already have an account.
 
-2. To join our dat240-2024 Discord server, navigate [here](https://discord.gg/JGqRaBq5T7).
+2. To join our dat240-2024 Discord server, navigate [here](https://discord.gg/C6XYCWjDuC).
 3. Please use your legal name so that we know who you are. 
 
 <!--
