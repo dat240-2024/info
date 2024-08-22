@@ -1,4 +1,4 @@
-# Instructions for Submitting a Lab Assignment to QuickFeed
+# Instructions for Submitting a Lab Assignment to QuickFeed.
 
 ## Setting up git repository
 
