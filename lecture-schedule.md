@@ -39,8 +39,8 @@
 | 44  | 31/10 | Lecture | Abdel                        | Game Programming                                                |                                                       |                   |
 |     | 31/10 | Lab     | Abdel and Student assistants | **Last lab hours**                                              |                                                       |                   |
 |     | 01/11 | Lecture | Abdel                        | Game Programming                                                |                                                       |                   |
-| 45  | 04/11 | Lecture | Glenn                        |                                                                 |                                                       |                   |
-|     | 08/11 | Lecture | Glenn                        |                                                                 |                                                       |                   |
-| 46  | 11/11 | Lecture | Glenn                        | Project progress meetings                                       |                                                       |                   |
+| 45  | 04/11 | Lecture | Glenn                        | Cloud models and docker concepts                                |                                                       |                   |
+|     | 08/11 | Lecture | Glenn                        | Docker examples / DevOps concepts                               |                                                       |                   |
+| 46  | 11/11 | Lecture | Glenn                        | DevOps examples                                                 |                                                       |                   |
 |     | 14/11 | Lab     | Student assistants           | **Project due**                                                 |                                                       |                   |
-|     | 15/11 | Lecture | TBA                          | TBA                                                             |                                                       |                   |
+|     | 15/11 | Lecture | TBA                          |                                                                 |                                                       |                   |
